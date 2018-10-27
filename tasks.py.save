@@ -1,0 +1,6 @@
+from microsoftbotframework import ReplyToActivity
+
+
+-10-26 14:04:19,719] WARNING in msbot: Forcing cache refresh as no valid certificate was found.
+[2018-10-26 14:04:20,032] WARNING in msbot: No valid certificate was found to verify JWT
+127.0.0.1 - - [26/Oct/2018 14:04:20] "POST /api/messages HTTP/1.1" 202 -
